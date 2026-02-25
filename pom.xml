@@ -6,13 +6,13 @@
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
         <version>3.5.5</version>
-        <relativePath/> <!-- lookup parent from repository -->
+        <relativePath/>
     </parent>
     <groupId>com.zheng.value</groupId>
-    <artifactId>ValueAnnotationHotUpdate</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
-    <name>ValueAnnotationHotUpdate</name>
-    <description>ValueAnnotationHotUpdate</description>
+    <artifactId>value-annotation-hotupdate-spring-boot-starter</artifactId>
+    <version>1.0.0</version>
+    <name>value-annotation-hotupdate-spring-boot-starter</name>
+    <description>value-annotation-hotupdate-spring-boot-starter</description>
     <url/>
     <licenses>
         <license/>

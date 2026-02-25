@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.zheng.value.valueannoationhotupdate.core.config.ValueAnnotationHotUpdateAutoConfiguration
